@@ -19,3 +19,5 @@ Snake game is a common name for video game concept and it's very famous in Nokia
 -- Append border collision
 
 -- Append body collision
+
+-- Add score when the snake eats pizza
