@@ -165,3 +165,5 @@ while True:
             points.clear()
             points.write("score: {} High Score: {}".format(score, high_score), align="center", font=("Courier", 24, "normal"))
     time.sleep(delay)
+
+#This is the complete code
